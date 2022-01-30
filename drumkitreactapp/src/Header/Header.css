@@ -1,0 +1,6 @@
+.header_container{
+    display: flex;
+    justify-content: center;
+    color: wheat;
+    font-size: 2rem;
+}

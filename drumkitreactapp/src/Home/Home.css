@@ -1,0 +1,22 @@
+
+
+.drum_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 150px;
+}
+.button img{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.button_box{
+    margin-left: 5px;
+    border: 12px solid black;
+}
+
+.button_box:hover{
+   opacity: 0.4;
+}
